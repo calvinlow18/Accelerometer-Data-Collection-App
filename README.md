@@ -1,7 +1,7 @@
-# Accelerometer-Data-Collection-App
-Accelerometer Data Collection Android App
+# Accelerometer Data Collection App
 
 A simple application developed to help in collecting accelerometer data for further analysis.
+
 Functionalities
 - Collect accelerometer data.
 - Save acceleormeter data in csv format.
