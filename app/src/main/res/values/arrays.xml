@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="delay_mode">
+        <item>FASTEST (0 microsecond delay)</item>
+        <item>GAME (20,000 microsecond delay)</item>
+        <item>UI (60,000 microsecond delay)</item>
+        <item>NORMAL (200,000 microsecond delay)</item>
+    </string-array>
+</resources>
